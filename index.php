@@ -1,7 +1,7 @@
 <body bgcolor="#CCFF33">
 <main>
 
-  <h2 align="center"><strong>Selamat Datang di UKM UNESA</strong></h2>
+  <h2 align="center"><strong>Cek Saya Cantik GAk ya ^_^</strong></h2>
   <h2 align="center"><img src="GAMBAR/zebra.ico" align="texttop" />  </h2>
 <h2 align="center">	UKM (UNIT KEGIATAN MAHASISWA)</h2>
 <p align="left">
