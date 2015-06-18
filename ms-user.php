@@ -1,6 +1,6 @@
 <?php
 include "ms-config.php";
-class User {
+class dada {
     public function __construct(Db_Class $db) {
         $this->mysqli = $db->getLink();
     }
